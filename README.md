@@ -1,7 +1,6 @@
 <![Header](./pngtree-planet-nebula-banner-background-image_259525.jpg)>
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">Multidisciplinary Engineering student from India.</h3>
-<img align="right" alt="Hamster" width="200" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandred009&label=Profile%20views&color=0e75b6&style=flat-square" alt="mandred009" /> </p>
 
@@ -23,7 +22,7 @@
 
 - 📄 Know about my experiences Find it in my LinkedIn.
 
-- ⚡ Fun fact **Hamsters are goofy asf.🤡**
+- ⚡ Fun fact **Hamsters are goofy.🤡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
