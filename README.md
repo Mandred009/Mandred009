@@ -1,4 +1,4 @@
-<![Header](./[Your header image])>
+<![Header](./pngtree-planet-nebula-banner-background-image_259525.jpg)>
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">Multidisciplinary Engineering student from India.</h3>
 <img align="right" alt="Hamster" width="200" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
