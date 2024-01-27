@@ -1,10 +1,17 @@
-<h1 align="center">Hi ✌️, I'm Harshavardhan</h1>
+<![Header](./[Your header image])>
+<h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">Multidisciplinary Engineering student from India.</h3>
-<img align="right" alt="Hamster" width="400" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
+<img align="right" alt="Hamster" width="200" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandred009&label=Profile%20views&color=0e75b6&style=flat-square" alt="mandred009" /> </p>
 
+- 🔭 I’m currently working on [My startup plan Mandred Tech.](https://github.com/Mandred-Tech)
+
 - 🌱 I’m currently learning **ROS2**
+
+- 👯 I’m looking to collaborate on **Projects related to design(especially rockets and machines), robotics and AI.**
+
+- 🤝 I’m looking for help with **Web developers and software developers interested to join our team.**
 
 - 👨‍💻 Some of my projects are available at [https://sites.google.com/view/mandred-portfolio/home](https://sites.google.com/view/mandred-portfolio/home)
 
@@ -14,7 +21,9 @@
 
 - 📫 How to reach me **mandredking@gmail.com**
 
-- 📄 Know about my experiences **Find it in my LinkedIn**
+- 📄 Know about my experiences [Find it in my LinkedIn.](Find it in my LinkedIn.)
+
+- ⚡ Fun fact **Hamsters are goofy asf.🤡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
