@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✌️, I'm Harshavardhan</h1>
 <h3 align="center">Multidisciplinary Engineering student from India.</h3>
-<img align="right" alt="Hamster" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif)">
+<img align="right" alt="Hamster" width="400" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandred009&label=Profile%20views&color=0e75b6&style=flat-square" alt="mandred009" /> </p>
 
