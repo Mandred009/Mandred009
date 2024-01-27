@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mandredking@gmail.com**
 
-- 📄 Know about my experiences [Find it in my LinkedIn.](Find it in my LinkedIn.)
+- 📄 Know about my experiences Find it in my LinkedIn.
 
 - ⚡ Fun fact **Hamsters are goofy asf.🤡**
 
