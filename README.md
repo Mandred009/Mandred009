@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Web developers and software developers interested to join our team.**
 
-- 👨‍💻 Some of my projects are available at [https://sites.google.com/view/mandred-portfolio/home](https://sites.google.com/view/mandred-portfolio/home)
+- 👨‍💻 Some of my projects are available at [https://sites.google.com/view/mandred-portfolio/home](https://mandred009.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@mandredking](https://medium.com/@mandredking)
 
