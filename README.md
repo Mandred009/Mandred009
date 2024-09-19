@@ -14,7 +14,7 @@
 
 - 👨‍💻 Some of my projects are available at [Personal Portfolio](https://mandred009.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@mandredking](https://medium.com/@mandredking)
+- 📝 I often write articles on [https://medium.com/@mandredking](https://medium.com/@mandredking)
 
 - 💬 Ask me about **Python, Machine Learning, Robotics and Mechanical Design**
 
