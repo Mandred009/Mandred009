@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My startup plan Mandred Tech.](https://github.com/Mandred-Tech)
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **Foundational Models**
 
 - 👯 I’m looking to collaborate on **Projects related to design(especially rockets and machines), robotics and AI.**
 
@@ -15,14 +15,15 @@
 - 👨‍💻 Some of my projects are available at [Personal Portfolio](https://mandred009.github.io/)
 
 - 📝 I often write articles on [https://medium.com/@mandredking](https://medium.com/@mandredking)
+  
+- 📝 Robotics Blog [Robotics%Rave](https://roboticsrave.blogspot.com/)
 
 - 💬 Ask me about **Python, Machine Learning, Robotics and Mechanical Design**
 
-- 📫 How to reach me **mandredking@gmail.com**
+- 📫 How to reach me **mandred.tech@gmail.com**
 
-- 📄 Know about my experiences Find it in my LinkedIn.
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/bontalakoti-venkata-harshavardhan-5b65b3228/).
 
-- ⚡ Fun fact **Hamsters are goofy.🤡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
