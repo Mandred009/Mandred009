@@ -1,6 +1,6 @@
 <![Header](./pngtree-planet-nebula-banner-background-image_259525.jpg)>
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
-<h3 align="center">Multidisciplinary Engineering student from India.</h3>
+<h3 align="center">Multidisciplinary Robotics Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandred009&label=Profile%20views&color=0e75b6&style=flat-square" alt="mandred009" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Foundational Models**
 
-- 👯 I’m looking to collaborate on **Projects related to design(especially rockets and machines), robotics and AI.**
+- 👯 I’m looking to collaborate on **Projects related to robotics and AI.**
 
 - 🤝 I’m looking for help with **Web developers and software developers interested to join our team.**
 
